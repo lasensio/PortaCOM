@@ -1,0 +1,43 @@
+ad3e1ac6270cc3b7a209953f44b1fd2e4ad3b285
+e5398052427dc0fbe77a3ad5e130c0d4a631b299
+
+
+M1 - Controles fracos do lado do servidor
+M2 - Armazenamento inseguro de dados
+M3 - Proteção insuficiente na camada de transporte
+M4 - Vazamento de dados não intencional
+M5 - Autenticação e/ou autorização fraca
+M6 - Quebra da criptografia
+M7 - Injeção do lado cliente
+M8 - Decisões de segurança via input não confiaveis
+M9 - Manipulação de sessão 
+M10 - Falta de proteção em binário
+
+
+M1: Weak Server Side Controls
+M2: Insecure Data Storage
+M3: Insufficient Transport Layer Protection
+M4: Unintended Data Leakage
+M5: Poor Authorization and Authentication
+M6: Broken Cryptography
+M7: Client Side Injection
+M8: Security Decisions Via Untrusted Inputs
+M9: Improper Session Handling
+M10: Lack of Binary Protections
+
+
+BCO15_0029 - Não está claro na descrição qual a URL que foi encontrado a referencia com o banco.
+
+
+191.5.60.130
+179.183.253.240
+200.175.47.241
+200.162.201.60
+191.188.2.210
+177.95.135.124
+187.74.252.109
+177.45.136.59
+189.57.157.210
+201.81.25.199
+
+
